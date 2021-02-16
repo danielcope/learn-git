@@ -1,1 +1,5 @@
-var myName
+
+  var myName = 'Daniel';
+    console.log(myName)
+
+
