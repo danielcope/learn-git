@@ -1,3 +1,5 @@
 **.sw*
 .DS_store
-
+index.js
+styles.css
+index.html
